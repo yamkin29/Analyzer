@@ -103,3 +103,15 @@ C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\obj\Debug\net8.0\refint\Ana
 C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\obj\Debug\net8.0\Analyzer.Tests.pdb
 C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\obj\Debug\net8.0\Analyzer.Tests.genruntimeconfig.cache
 C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\obj\Debug\net8.0\ref\Analyzer.Tests.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\dartw\RiderProjects\Analyzer\Analyzer.Tests\obj\Debug\net8.0\Analyzer.Tests.sourcelink.json

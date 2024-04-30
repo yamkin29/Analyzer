@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "D5WEdlhjaXM3k41L0CILnoqcFxcn3qhCOSJZkSIKMykhdhcwCuR6KpDqADrZ0eXAT97aD+tfbDclMEJkOJEEiw==",
+  "dgSpecHash": "65R95OBfdOwMLODQVdthNEBJGLdtjg1xk01L6IUmZ5GTPGgJGvdm01lwsv/9qQU1kleUdHObEnovX26d9WUphw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dartw\\RiderProjects\\Analyzer\\Analyzer.Tests\\Analyzer.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dartw\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\dartw\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.3.24172.9\\microsoft.extensions.configuration.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.0-preview.3.24172.9\\microsoft.extensions.configuration.fileextensions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.0-preview.3.24172.9\\microsoft.extensions.configuration.json.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0-preview.3.24172.9\\microsoft.extensions.fileproviders.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.0-preview.3.24172.9\\microsoft.extensions.fileproviders.physical.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.0-preview.3.24172.9\\microsoft.extensions.filesystemglobbing.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.3.24172.9\\microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512",
     "C:\\Users\\dartw\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "C:\\Users\\dartw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\dartw\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
@@ -16,7 +24,9 @@
     "C:\\Users\\dartw\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
     "C:\\Users\\dartw\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
     "C:\\Users\\dartw\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
-    "C:\\Users\\dartw\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\dartw\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\system.text.encodings.web\\9.0.0-preview.3.24172.9\\system.text.encodings.web.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\dartw\\.nuget\\packages\\system.text.json\\9.0.0-preview.3.24172.9\\system.text.json.9.0.0-preview.3.24172.9.nupkg.sha512"
   ],
   "logs": [
     {

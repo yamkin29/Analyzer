@@ -1,0 +1,8 @@
+{
+  "FileLog": "C:\\Users\\dartw\\AccessLog.txt",
+  "FileOutput": "C:\\Users\\dartw\\Output.txt",
+  "AddressStart": "192.168.1.1",
+  "AddressMask": "255.255.255.0",
+  "TimeStart": "2024-01-01T00:00:00",
+  "TimeEnd": "2024-01-31T23:59:59"
+}
